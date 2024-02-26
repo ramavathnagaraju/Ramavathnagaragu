@@ -8,9 +8,8 @@ Hello!
 
 ● Wanna chat about coding, share ideas, or team up for a project.... Feel free to reach out! Let's learn and build cool things together.
 
-Happy coding☺ 
+Happy coding☺  
+connect with me :www.linkedin.com/in/
+nagaraju-ramavath-b67460282
 
-<!---
-Ramavathnagaragu/Ramavathnagaragu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
